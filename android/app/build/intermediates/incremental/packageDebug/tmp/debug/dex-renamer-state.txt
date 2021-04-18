@@ -1,0 +1,4 @@
+#Sat Apr 17 17:51:34 BRT 2021
+base.0=/home/fabricio/Documentos/mines/android/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
